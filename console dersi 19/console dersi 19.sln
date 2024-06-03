@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "console dersi 19", "console dersi 19\console dersi 19.csproj", "{51D9110C-1091-4EC9-84C0-130A0841799D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51D9110C-1091-4EC9-84C0-130A0841799D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51D9110C-1091-4EC9-84C0-130A0841799D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51D9110C-1091-4EC9-84C0-130A0841799D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51D9110C-1091-4EC9-84C0-130A0841799D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFD712D7-ABAE-4D1D-8EA9-41E3579EF017}
+	EndGlobalSection
+EndGlobal

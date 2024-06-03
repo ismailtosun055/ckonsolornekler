@@ -1,0 +1,8 @@
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 19\console dersi 19\obj\Debug\console dersi 19.csproj.AssemblyReference.cache
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 19\console dersi 19\obj\Debug\console dersi 19.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 19\console dersi 19\obj\Debug\console dersi 19.csproj.CoreCompileInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 19\console dersi 19\bin\Debug\console dersi 19.exe.config
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 19\console dersi 19\bin\Debug\console dersi 19.exe
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 19\console dersi 19\bin\Debug\console dersi 19.pdb
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 19\console dersi 19\obj\Debug\console dersi 19.exe
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 19\console dersi 19\obj\Debug\console dersi 19.pdb
